@@ -32,9 +32,7 @@ const Home: NextPage = () => {
   return (
     <div className="flex flex-col min-h-screen">
       <Head>
-        <title>
-          React with TypeScript 🦑
-        </title>
+        <title>React with TypeScript 🦑</title>
         <meta
           name="description"
           content="React con TypeScript para crear un componente genérico para cargar imágenes con lazy loading."
